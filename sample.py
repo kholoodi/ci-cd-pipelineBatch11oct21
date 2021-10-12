@@ -1,2 +1,2 @@
-ptint('Hello, all')
+print('Hello, all')
 
